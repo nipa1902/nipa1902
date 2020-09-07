@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 
+
+* I am currently learning how to be a web developer through the online course provided by [Mittuniversitetet](https://www.miun.se/ "Mittuniversitetet")
+* Right now, we're working on NodeJs development with CSS-preprocessors & Typescript, PHP RESTful backends, and Project Management theory. Nice! 
+* This is my GitHub page for publishing university projects -- and later some projects of my own as well!
+* In my spare time, I like to narrate audiobooks and write fantasy stories.
+* One day, I'll make a choose-your-own fantasy adventure you can play in your browser.
 
 <!--
 **nipa1902/nipa1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
