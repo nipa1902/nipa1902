@@ -1,8 +1,8 @@
 ### Hello! 
 
 * I am currently learning how to be a web developer through the online course provided by [Mittuniversitetet](https://www.miun.se/ "Mittuniversitetet")
-* Right now, we're working on NodeJs development with GULP, CSS-preprocessors & Typescript, PHP RESTful backends, and Project Management theory. Nice! 
-* This is my GitHub page for publishing university projects -- and later some projects of my own as well!
+* Right now, we're working on web accessibility, as well as development with C# (.NET) -- my third language. Cool!
+* This is my GitHub page for publishing university projects -- and later some projects of my own as well! Right now I am working on an IG clone. 
 * In my spare time, I like to narrate audiobooks and write fantasy stories.
 * One day, I'll make a choose-your-own fantasy adventure you can play in your browser.
 
